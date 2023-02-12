@@ -1,6 +1,6 @@
 import React from 'react'
 import './app.css'
-import Sidebar from './Components/SideBar Section/sidebar'
+import Sidebar from './Components/SideBar_Section/sidebar'
 import Body from './Components/Body Section/Body'
 
 const App = () => {
