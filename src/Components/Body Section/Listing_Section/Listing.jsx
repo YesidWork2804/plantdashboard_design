@@ -90,10 +90,10 @@ const Listing = () => {
 
           <div className="card flex">
             <div className="users">
-              <img src={user2} alt="User Image" />
-              <img src={user3} alt="User Image" />
-              <img src={user4} alt="User Image" />
-              <img src={user1} alt="User Image" />
+              <img src={user2} alt="User Image1" />
+              <img src={user3} alt="User Image2" />
+              <img src={user4} alt="User Image3" />
+              <img src={user1} alt="User Image4" />
             </div>
 
             <div className="cardText">
