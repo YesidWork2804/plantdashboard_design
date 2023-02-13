@@ -28,25 +28,25 @@ const Listing = () => {
       <div className="secContainer flex">
         <div className="singleItem">
           <AiFillHeart className="icon" />
-          <img src={img} alt="Image Name" />
+          <img src={img} alt="Image Name1" />
           <h3>Annual Vince</h3>
         </div>
 
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
-          <img src={img2} alt="Image Name" />
+          <img src={img2} alt="Image Name2" />
           <h3>Cofee Plant</h3>
         </div>
 
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
-          <img src={img3} alt="Image Name" />
+          <img src={img3} alt="Image Name3" />
           <h3>Button Fern</h3>
         </div>
 
         <div className="singleItem">
           <AiFillHeart className="icon" />
-          <img src={img} alt="Image Name" />
+          <img src={img} alt="Image Name4" />
           <h3>Annual Vince</h3>
         </div>
       </div>
@@ -62,10 +62,10 @@ const Listing = () => {
 
           <div className="card flex">
             <div className="users">
-              <img src={user1} alt="User Image" />
-              <img src={user3} alt="User Image" />
-              <img src={user4} alt="User Image" />
-              <img src={user2} alt="User Image" />
+              <img src={user1} alt="User Image1" />
+              <img src={user3} alt="User Image2" />
+              <img src={user4} alt="User Image3" />
+              <img src={user2} alt="User Image4" />
             </div>
 
             <div className="cardText">
