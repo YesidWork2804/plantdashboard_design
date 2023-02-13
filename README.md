@@ -9,7 +9,7 @@ Este proyecto fue creado con React y está diseñado para ser una página web co
 
 ## Capturas de pantalla
 
-![ViewPrincipal](Assets/cap.PNG)
+![ViewPrincipal](src/Assets/cap.PNG)
 
 
 ## Créditos
