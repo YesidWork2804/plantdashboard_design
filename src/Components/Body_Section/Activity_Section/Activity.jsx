@@ -24,7 +24,7 @@ const Activity = () => {
 
       <div className="secContianer grid">
         <div className="singleCustomer flex">
-          <img src={user} alt="Customer Image1" />
+          <img src={user} alt="Customer1 Image1" />
           <div className="customerDetails">
             <span className="name">Ola Martha</span>
             <small>Ordered a new plant</small>
@@ -33,7 +33,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user1} alt="Customer Image2" />
+          <img src={user1} alt="Customer2 Image2" />
           <div className="customerDetails">
             <span className="name">Ola Martha</span>
             <small>Ordered a new plant</small>
@@ -42,7 +42,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user4} alt="Customer Image3" />
+          <img src={user4} alt="Customer3 Image3" />
           <div className="customerDetails">
             <span className="name">Ola Martha</span>
             <small>Ordered a new plant</small>
@@ -51,7 +51,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user2} alt="Customer Image4" />
+          <img src={user2} alt="Customer4 Image4" />
           <div className="customerDetails">
             <span className="name">Ola Martha</span>
             <small>Ordered a new plant</small>
@@ -60,7 +60,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user3} alt="Customer Image5" />
+          <img src={user3} alt="Customer5 Image5" />
           <div className="customerDetails">
             <span className="name">Ola Martha</span>
             <small>Ordered a new plant</small>

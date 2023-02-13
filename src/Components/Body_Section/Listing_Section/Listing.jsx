@@ -28,25 +28,25 @@ const Listing = () => {
       <div className="secContainer flex">
         <div className="singleItem">
           <AiFillHeart className="icon" />
-          <img src={img} alt="Image Name1" />
+          <img src={img} alt="Image1 Name1" />
           <h3>Annual Vince</h3>
         </div>
 
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
-          <img src={img2} alt="Image Name2" />
+          <img src={img2} alt="Image2 Name2" />
           <h3>Cofee Plant</h3>
         </div>
 
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
-          <img src={img3} alt="Image Name3" />
+          <img src={img3} alt="Image3 Name3" />
           <h3>Button Fern</h3>
         </div>
 
         <div className="singleItem">
           <AiFillHeart className="icon" />
-          <img src={img} alt="Image Name4" />
+          <img src={img} alt="Image4 Name4" />
           <h3>Annual Vince</h3>
         </div>
       </div>
@@ -62,10 +62,10 @@ const Listing = () => {
 
           <div className="card flex">
             <div className="users">
-              <img src={user1} alt="User Image1" />
-              <img src={user3} alt="User Image2" />
-              <img src={user4} alt="User Image3" />
-              <img src={user2} alt="User Image4" />
+              <img src={user1} alt="User1 Image1" />
+              <img src={user3} alt="User2 Image2" />
+              <img src={user4} alt="User3 Image3" />
+              <img src={user2} alt="User4 Image4" />
             </div>
 
             <div className="cardText">
@@ -90,10 +90,10 @@ const Listing = () => {
 
           <div className="card flex">
             <div className="users">
-              <img src={user2} alt="User Image1" />
-              <img src={user3} alt="User Image2" />
-              <img src={user4} alt="User Image3" />
-              <img src={user1} alt="User Image4" />
+              <img src={user2} alt="User_1 Image1" />
+              <img src={user3} alt="User_2 Image2" />
+              <img src={user4} alt="User_3 Image3" />
+              <img src={user1} alt="User_4 Image4" />
             </div>
 
             <div className="cardText">
